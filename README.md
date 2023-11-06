@@ -33,7 +33,7 @@ Overall, the paper demonstrates that RLAIF is a viable alternative to RLHF that 
 [Contact Info](#contact-info)  
 
 ## Goals & Questions
-1. What we need to be careful about when we are trying to get RLAIF?
+1. What we need to be careful about when we are using RLAIF?
 2. What tasks that you think RLAIF might not work?
 
 ## :play_or_pause_button: Background
