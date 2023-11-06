@@ -206,7 +206,7 @@ return finetuned_model
   > Note: 1, 4, and 16 samples represent 2, 8, and 32 inferences given our position de-biasing technique
 
 **[Time to answer a question: ]**  
-**What we need to be careful about when we are trying to get RLAIF?**
+**What we need to be careful about when we are using RLAIF?**
 
 ### Point 3: Critical Analysis  
 :eyes: :eyes: :eyes: 
