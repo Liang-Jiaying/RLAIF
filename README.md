@@ -2,7 +2,7 @@
 <img width="700" alt="Screenshot 2023-11-01 at 6 18 36 AM" src="https://github.com/Liang-Jiaying/RLAIF/assets/111295386/70e483af-ab39-4760-abac-e142412f25a1">
 
 
-# Overview
+# Overview [Recording](https://vanderbilt.zoom.us/rec/share/gq0sOyUYMeu40r6bkvUIQsSpr1M-sd0W7RUwUzupI4wzvZDqom0CXjJmVFuaTVIr.ahOFNuuTcHMSBob7?startTime=1699879229000)
 Reinforcement learning from human feedback (RLHF) has emerged as an effective technique for aligning large language models to human preferences. However, gathering high-quality human feedback is expensive and limits the scalability of RLHF.  
 
 This paper explores whether preferences labeled by an AI system can be used in lieu of human feedback. The authors refer to this approach as reinforcement learning from AI feedback (RLAIF).  
